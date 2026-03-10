@@ -1,0 +1,6 @@
+Makefile
+out/
+*.class
+*.log
+*.swp
+*.aux

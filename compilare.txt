@@ -1,0 +1,13 @@
+Compilare:
+    make
+
+Rulare demo:
+    make run
+    sau
+    java -cp out:/usr/share/java/bcprov.jar com.example.eccelgamal.ElGamalEccDemo
+
+Rulare benchmark:
+    make benchmark
+    sau
+    java -cp out:/usr/share/java/bcprov.jar com.example.eccelgamal.CryptoBenchmark
+
