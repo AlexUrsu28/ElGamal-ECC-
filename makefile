@@ -1,6 +1,5 @@
 # ===========================
 #   Makefile pentru proiectul ElGamal ECC
-#   Autor: ChatGPT
 # ===========================
 
 # Localizare fișiere sursă și destinație build
